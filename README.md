@@ -10,6 +10,7 @@
 
 ## Preparation
 First, download and unzip GloVe vectors(`glove.840B.300d.zip`) from https://nlp.stanford.edu/projects/glove/ .
+
 Then, put `glove.840B.300d.txt` into `./glove` directory.
 
 
